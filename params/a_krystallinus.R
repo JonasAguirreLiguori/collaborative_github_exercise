@@ -9,6 +9,6 @@ sig2 <-  0.5
 species.name <- "anas_krystallinus"
     
 # e.g. "red"    
-color <- "darkorchid4"
+color <- "darkgrey"
     
 # pick a color at http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf
